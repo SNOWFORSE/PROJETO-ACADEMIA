@@ -1,2 +1,2 @@
 # PROJETO-ACADEMIA
-Projeto Academia é um site sobre uma academia que facilita tudo ao cliente, com 
+Projeto Academia: A Academia Dragon Ball Z é um espaço moderno e motivador dedicado ao bem-estar e à saúde física. Oferecemos uma variedade de equipamentos de última geração, programas de treinamento personalizados e aulas dinâmicas, desde Zumba e pilates até treinamento de alta intensidade como boxe e musculação. Nossa equipe de instrutores qualificados está comprometida em ajudar os membros a alcançarem seus objetivos de condicionamento físico, proporcionando um ambiente acolhedor e encorajador para pessoas de todas as idades e níveis de aptidão.
