@@ -1,0 +1,128 @@
+/* Reset de estilos para remover margens e preenchimentos padrão */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo global */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #000000;
+}
+
+/* Estilo do cabeçalho */
+header {
+    background-color: #333;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 28px;
+    color: #ddd;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #ddd;
+    text-decoration: none;
+}
+
+/* Estilo da seção de banner */
+#banner {
+    text-align: center;
+    padding: 50px 0;
+}
+
+#banner img {
+    width: 10%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
+
+#banner h2 {
+    font-size: 36px;
+    margin: 20px 0;
+}
+
+#banner p {
+    font-size: 18px;
+    color: #555;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #555;
+}
+
+/* Estilo da seção de serviços */
+#servicos {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.card {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.card img {
+    width: 80%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
+
+.card h3 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.card p {
+    font-size: 16px;
+    color: #555;
+}
+.card h4 {
+
+    font-size: 24px;
+    margin: 10px 0;
+}
+.card h5 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+.card p {
+    font-size: 16px;
+    color: #555;
+}
+
+/* Estilo do rodapé */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 25px 0;
+}
